@@ -56,25 +56,25 @@ $(document).ready(function(){
     // Hover CSS
 
         $("#choice-holder-1").hover(function() {
-            $(this).css("color", "gray");
+            $(this).css("color", "pink");
         },
         function(){
             $(this).css("color", "black");
         });
         $("#choice-holder-2").hover(function() {
-            $(this).css("color", "gray");
+            $(this).css("color", "pink");
         },
         function(){
             $(this).css("color", "black");
         });
         $("#choice-holder-3").hover(function() {
-            $(this).css("color", "gray");
+            $(this).css("color", "pink");
         },
         function(){
             $(this).css("color", "black");
         });
         $("#choice-holder-4").hover(function() {
-            $(this).css("color", "gray");
+            $(this).css("color", "pink");
         },
         function(){
             $(this).css("color", "black");
@@ -129,7 +129,7 @@ $(document).ready(function(){
     }
 
     function resetTime() {
-        time = 31;
+        time = 21;
     }
 
     function displayTime() {
