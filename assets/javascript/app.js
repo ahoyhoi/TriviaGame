@@ -95,7 +95,7 @@ $(document).ready(function(){
             stopTime();
             isSelected = true;
             $("#answer-holder").show();
-            $("#answer-holder").html("Right! The answer is: " + answer[count]);
+            $("#answer-holder").html("Correct! The answer is: " + answer[count]);
             displayImage();
             correct++;
             count++;
@@ -104,7 +104,7 @@ $(document).ready(function(){
             stopTime();
             isSelected = true;
             $("#answer-holder").show();
-            $("#answer-holder").html("Wrong! The answer is: " + answer[count]);
+            $("#answer-holder").html("Incorrect! The answer is: " + answer[count]);
             displayImage();
             incorrect++;
             count++;
