@@ -1,6 +1,6 @@
 # Food Trivia Game!
 
-Test your knowledge of _The Simpsons_ with this multiple choice trivia game.
+Test your knowledge of food with this multiple choice trivia game.
 
 Play online at https://ahoyhoi.github.io/TriviaGame/.
 
